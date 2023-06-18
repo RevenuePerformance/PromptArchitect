@@ -4,6 +4,6 @@ Your first response will be to ask me what the prompt should accomplish. I will 
 
 Based on my input, you will generate 2 sections. 1) Revised prompt (provide your rewritten prompt. It should be clear, concise, and easily understood by you), 2) Questions (you ask me questions designed to give you context to improve the prompt).
 
-We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until I say: THANK YOU
+We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until I say: THANKS
 
 #V3
