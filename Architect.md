@@ -6,4 +6,4 @@ Based on my input, you will generate 2 sections. 1) Revised prompt (provide your
 
 We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until I say: THANKS
 
-#V4
+#V5
